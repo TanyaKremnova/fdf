@@ -21,7 +21,7 @@ However, you are welcome to use and modify my custom maps from the `tkremnov_map
    cd fdf
    ```
 
-**2. Install MLX42 (Codam’s version)**
+**2. Install MLX42 (Codam’s version)**  
 Go to the official repo and follow the instructions:  
 https://github.com/codam-coding-college/MLX42.git
 
@@ -77,7 +77,7 @@ View with top-down projection:
 ![Top-down View](screenshots/butterfly_03.png)
 
 View with rotation applied:  
-![Rotated View](screenshots/flower_04.png)
+![Rotated View](screenshots/butterfly_04.png)
 
 ---
 
